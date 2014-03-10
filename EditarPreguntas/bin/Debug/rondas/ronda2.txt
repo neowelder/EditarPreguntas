@@ -1,6 +1,0 @@
-Marca de auto famosa
-Ford,50
-nissan,32
-chevrolet,16
-volwagen,8
-otra,4

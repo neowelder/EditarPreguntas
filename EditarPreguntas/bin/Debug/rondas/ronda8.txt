@@ -1,6 +1,0 @@
-Sistema operativo
-windows,40
-android,32
-ios,16
-blackberry,8
-symbian,4
