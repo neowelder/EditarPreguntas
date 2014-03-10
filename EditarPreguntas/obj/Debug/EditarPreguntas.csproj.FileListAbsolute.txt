@@ -1,0 +1,10 @@
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\bin\Debug\EditarPreguntas.exe
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\bin\Debug\EditarPreguntas.pdb
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.csprojResolveAssemblyReference.cache
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.Form1.resources
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.Properties.Resources.resources
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.csproj.GenerateResource.Cache
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.exe
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.pdb
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.Support.resources
+c:\users\evilnapsis\documents\visual studio 2012\Projects\EditarPreguntas\EditarPreguntas\obj\Debug\EditarPreguntas.Splash.resources

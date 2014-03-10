@@ -1,0 +1,6 @@
+Ingrediente de los tacos
+Tortilla,50
+Carne,20
+Salsa,20
+Frijoles,7
+Queso,3
